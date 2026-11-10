@@ -84,3 +84,39 @@
     });
   });
 })();
+
+/* Before/after comparison slider. Pointer drag plus a range input for keyboard. */
+(function () {
+  document.querySelectorAll("[data-compare]").forEach(function (root) {
+    var frame = root.querySelector(".ba-frame");
+    var input = root.querySelector("input[type=range]");
+    if (!frame) return;
+    function set(v) {
+      v = Math.round(Math.min(100, Math.max(0, Number(v))));
+      if (isNaN(v)) v = 50;
+      root.style.setProperty("--pos", v + "%");
+      if (input && input.value !== String(v)) input.value = String(v);
+    }
+    set(input ? input.value : 50);
+    if (input) input.addEventListener("input", function () { set(input.value); });
+    var dragging = false;
+    function pct(e) {
+      var r = frame.getBoundingClientRect();
+      var x = (e.clientX - r.left) / r.width;
+      return x * 100;
+    }
+    frame.addEventListener("pointerdown", function (e) {
+      if (e.pointerType === "mouse" && e.button !== 0) return;
+      dragging = true;
+      try { frame.setPointerCapture(e.pointerId); } catch (err) {}
+      set(pct(e));
+      e.preventDefault();
+    });
+    frame.addEventListener("pointermove", function (e) {
+      if (dragging) set(pct(e));
+    });
+    function end() { dragging = false; }
+    frame.addEventListener("pointerup", end);
+    frame.addEventListener("pointercancel", end);
+  });
+})();
