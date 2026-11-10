@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://millionsbound.github.io/mercia-property-recovery/sitemap.xml

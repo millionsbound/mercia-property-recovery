@@ -1,0 +1,52 @@
+2:"$Sreact.fragment"
+3:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+d:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+e:I[22016,["$c","$d"],""]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+f:T690,<h2>Recent cases</h2>
+<ul>
+<li><strong>Midland Road, January 2026.</strong> Police seized 1,737 plants, valued at around £1.7 million, from a disused factory near the town centre. A local police supervisor described it as one of the biggest hauls in the Walsall area.</li>
+<li><strong>Riley Street, Willenhall.</strong> The Express and Star listed this among recent local finds in its coverage of Wolverhampton cases in October 2026.</li>
+</ul>
+<h2>Commercial and void units</h2>
+<p>Empty commercial buildings are attractive to growers because there are no neighbours through the wall and no inspections. If you own or manage one:</p>
+<ul>
+<li>Check your insurer&#39;s <strong>vacant property conditions</strong>. Many require regular inspections of empty buildings and a log of them.</li>
+<li>After a find, the clean-up is bigger: industrial quantities of waste, heavy equipment, and sometimes structural alterations.</li>
+<li>Waste must go through a registered carrier with transfer notes, and some items may count as hazardous.</li>
+</ul>
+<h2>Walsall HMO licensing</h2>
+<p>Walsall Council runs an <strong>additional HMO licensing scheme in Palfrey, Paddock, Pleck and St Matthew&#39;s</strong>, covering HMOs with three or more tenants from more than one household, until 31 August 2027. Mandatory HMO licensing applies across the borough. If your property is in one of these areas, check it meets licence conditions after the restoration and before re-letting.</p>
+<h2>How we help</h2>
+<p>We introduce you to up to two specialists who cover your WS postcode. For commercial premises, we look for firms with the capacity for larger strip-outs and the right waste permits.</p>
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Le",null,{"href":"/","children":"Home"}]}],["$","li","/areas",{"children":["$","$Le",null,{"href":"/areas","children":"Areas"}]}],["$","li","/areas/walsall",{"children":["$","span",null,{"aria-current":"page","children":"Walsall"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Areas\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/areas\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Walsall\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/areas/walsall\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"Cannabis farm and property recovery in Walsall"}],["$","p",null,{"className":"lede","children":"Walsall's biggest reported find of 2026 was not in a house at all. It was in a disused factory near the town centre. Commercial and industrial owners are as exposed as residential landlords."}],["$","p",null,{"className":"small","children":[["$","strong",null,{"children":"Postcodes:"}]," ","WS1 to WS10 (WS10 Wednesbury is in Sandwell)",". ",["$","strong",null,{"children":"Council:"}]," ",["$","a",null,{"href":"https://go.walsall.gov.uk/housing/information-landlords/houses-multiple-occupation-hmo/additional-hmo-licensing","rel":"noopener","target":"_blank","children":"Walsall Council additional HMO licensing"}]]}],["$","p",null,{"className":"page-cta","children":[false,["$","a",null,{"className":"btn btn-quiet","href":"#request-form","children":"Request a callback"}],["$","span",null,{"className":"hours","children":"Phone answered Monday to Saturday, 8am to 7pm"}]]}]]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$f"}}],"$undefined","$L10","$undefined"]}],"$L11"]}]]}],"$L12"],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"walsall","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"areas","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cannabis Farm Clean-Up Walsall | Landlord Help"}],["$","meta","1",{"name":"description","content":"Help for Walsall landlords, letting agents and commercial property owners after a cannabis farm, including disused units, HMO licensing areas and clean-up."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/areas/walsall/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Cannabis Farm Clean-Up Walsall | Landlord Help"}],["$","meta","5",{"property":"og:description","content":"Help for Walsall landlords, letting agents and commercial property owners after a cannabis farm, including disused units, HMO licensing areas and clean-up."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/areas/walsall/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Cannabis Farm Clean-Up Walsall | Landlord Help"}],["$","meta","12",{"name":"twitter:description","content":"Help for Walsall landlords, letting agents and commercial property owners after a cannabis farm, including disused units, HMO licensing areas and clean-up."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","14",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"OuWZcFJmkW-e533p0tx0O"}
+1f:I[50372,["$c","$d"],"default"]
+20:I[97367,["$3"],"OutletBoundary"]
+10:["$","section",null,{"className":"sources","aria-labelledby":"src-h","children":[["$","h2",null,{"id":"src-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://www.birminghammail.co.uk/news/midlands-news/walsall-drugs-bust-sees-huge-33216317",{"children":["$","a",null,{"href":"https://www.birminghammail.co.uk/news/midlands-news/walsall-drugs-bust-sees-huge-33216317","rel":"noopener","target":"_blank","children":"Birmingham Mail: Midland Road, Walsall"}]}],["$","li","https://go.walsall.gov.uk/housing/information-landlords/houses-multiple-occupation-hmo/additional-hmo-licensing",{"children":["$","a",null,{"href":"https://go.walsall.gov.uk/housing/information-landlords/houses-multiple-occupation-hmo/additional-hmo-licensing","rel":"noopener","target":"_blank","children":"Walsall Council: additional HMO licensing"}]}]]}]]}]
+11:["$","aside",null,{"className":"page-side","children":[["$","section",null,{"className":"side-form","aria-labelledby":"side-form-h","children":[["$","h2",null,{"id":"side-form-h","children":"Tell us about the property"}],["$","p",null,{"className":"small","children":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later."}],["$","$L1f",null,{"phoneDisplay":"","phoneHref":"","callbackPromise":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later.","idPrefix":"side"}]]}],"$undefined"]}]
+12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Cannabis farm and property recovery in Walsall\",\"description\":\"Help for Walsall landlords, letting agents and commercial property owners after a cannabis farm, including disused units, HMO licensing areas and clean-up.\",\"url\":\"https://millionsbound.github.io/mercia-property-recovery/areas/walsall\",\"serviceType\":\"Cannabis farm and property recovery in Walsall\",\"provider\":{\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Walsall\"}}"}}]
+13:["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true}]
+14:["$","$L20",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+1e:true
+8:300
+21:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"

@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+3:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+4:I[22016,["$2","$3"],""]
+5:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+6:I[39756,["$5"],"default"]
+7:I[37457,["$5"],"default"]
+14:I[68027,["$2"],"default",1]
+:HL["/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","style"]
+:HL["/mercia-property-recovery/mercia-logo.jpg","image"]
+10:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+e:[["children",{"s":"privacy","h":512,"d":{"r":"$Lf","p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","privacy",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","div",null,{"className":"wrap header-inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","img",null,{"className":"brand-mark","src":"/mercia-property-recovery/mercia-logo.jpg","alt":"","width":48,"height":51}],["$","span",null,{"className":"brand-text","children":[["$","span",null,{"className":"brand-name","children":"Mercia"}],["$","span",null,{"className":"brand-sub","children":"Property Recovery"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"main-nav","children":[["$","$L4",null,{"href":"/services","children":"Services"}],["$","$L4",null,{"href":"/guides","children":"Landlord guides"}],["$","$L4",null,{"href":"/areas","children":"Areas"}],["$","$L4",null,{"href":"/for-letting-agents","children":"Letting agents"}]]}],false]}]]}],["$","main",null,{"id":"main","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap page","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["The page you were looking for is not here. Try the ",["$","$L4",null,{"href":"/","children":"home page"}]," or our ",["$","$L4",null,{"href":"/guides","children":"landlord guides"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"Mercia Property Recovery"}],["$","p",null,{"children":["An introduction service for landlords, letting agents and property owners in the West Midlands. We do not carry out the work ourselves. We introduce you to vetted specialists and may receive a fee from them. ",["$","$L4",null,{"href":"/about","children":"How this works"}],"."]}],["$","p",null,{"children":[false,"Phone answered Monday to Saturday, 8am to 7pm"]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"Services"}],["$","ul",null,{"children":[["$","li","cannabis-farm-clean-up",{"children":["$","$L4",null,{"href":"/services/cannabis-farm-clean-up","children":"Cannabis farm clean-up for rented property"}]}],["$","li","property-restoration-after-cannabis-farm",{"children":["$","$L4",null,{"href":"/services/property-restoration-after-cannabis-farm","children":"Full property restoration after a cannabis farm"}]}],["$","li","electrical-make-safe-rewire",{"children":["$","$L4",null,{"href":"/services/electrical-make-safe-rewire","children":"Electrical make-safe, testing and rewire"}]}],["$","li","drug-den-needle-clean-up",{"children":["$","$L4",null,{"href":"/services/drug-den-needle-clean-up","children":"Drug den and needle clean-up"}]}],["$","li","squatter-removal-and-clearance",{"children":["$","$L4",null,{"href":"/services/squatter-removal-and-clearance","children":"Squatter removal and property clearance"}]}],["$","li","tenant-damage-restoration",{"children":["$","$L4",null,{"href":"/services/tenant-damage-restoration","children":"Restoration after serious tenant damage"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"Guides"}],["$","ul",null,{"children":[["$","li","first-48-hours-after-a-cannabis-farm",{"children":["$","$L4",null,{"href":"/guides/first-48-hours-after-a-cannabis-farm","children":"Cannabis Farm Found in Your Rental? The First 48 Hours"}]}],["$","li","landlord-insurance-inspection-trap",{"children":["$","$L4",null,{"href":"/guides/landlord-insurance-inspection-trap","children":"Landlord Insurance and Cannabis Farms"}]}],["$","li","deposit-and-damage-claims",{"children":["$","$L4",null,{"href":"/guides/deposit-and-damage-claims","children":"Can I Claim Cannabis Farm Damage From the Deposit?"}]}],["$","li","cannabis-farm-clean-up-cost",{"children":["$","$L4",null,{"href":"/guides/cannabis-farm-clean-up-cost","children":"Cannabis Farm Clean-Up Cost UK"}]}]]}],"$L8","$L9"]}],"$La"]}],"$Lb"]}],"$Lc","$Ld"]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":"$L13","p":false,"v":null}},"m":"$undefined","G":["$14",["$L15"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"OuWZcFJmkW-e533p0tx0O"}
+1b:"ViewportBoundary"
+1c:I[97367,["$5"],"$1b"]
+1e:"MetadataBoundary"
+1f:I[97367,["$5"],"$1e"]
+20:"$Sreact.suspense"
+8:["$","p",null,{"className":"footer-head","children":"Areas"}]
+9:["$","ul",null,{"className":"inline-list","children":[["$","li","birmingham",{"children":["$","$L4",null,{"href":"/areas/birmingham","children":"Birmingham"}]}],["$","li","wolverhampton",{"children":["$","$L4",null,{"href":"/areas/wolverhampton","children":"Wolverhampton"}]}],["$","li","coventry",{"children":["$","$L4",null,{"href":"/areas/coventry","children":"Coventry"}]}],["$","li","walsall",{"children":["$","$L4",null,{"href":"/areas/walsall","children":"Walsall"}]}],["$","li","dudley",{"children":["$","$L4",null,{"href":"/areas/dudley","children":"Dudley"}]}],["$","li","sandwell",{"children":["$","$L4",null,{"href":"/areas/sandwell","children":"Sandwell"}]}]]}]
+a:["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"About"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L4",null,{"href":"/about","children":"About us"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/how-we-vet-specialists","children":"How we vet specialists"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/for-letting-agents","children":"For letting agents"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/privacy","children":"Privacy notice"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/terms","children":"Terms"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/complaints","children":"Complaints"}]}]]}]]}]
+b:["$","div",null,{"className":"wrap footer-small","children":[["$","p",null,{"children":"In an emergency, or if you think a crime is in progress, call 999. For non-emergency police matters call 101. For a power cut or dangerous electrics, call 105."}],false]}]
+c:["$","div",null,{"className":"call-bar call-bar-single","role":"region","aria-label":"Quick contact","children":[false,["$","$L4",null,{"className":"btn btn-quiet","href":"/request","children":"Request a callback"}]]}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\",\"name\":\"Mercia Property Recovery\",\"url\":\"https://millionsbound.github.io/mercia-property-recovery\",\"description\":\"Help for West Midlands landlords and letting agents after a cannabis farm, drug use, squatters or serious tenant damage. We introduce you to vetted specialists for clean-up, electrics and repairs.\",\"areaServed\":{\"@type\":\"AdministrativeArea\",\"name\":\"West Midlands, England\"},\"logo\":\"https://millionsbound.github.io/mercia-property-recovery/mercia-logo.jpg\"}"}}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+16:Te45,<h2>Who we are</h2>
+<p>The controller is Mercia Property Recovery. Contact us through the <a href="/mercia-property-recovery/request/">request form</a>.</p>
+<h2>What we collect</h2>
+<p>When you use our form or call us, we collect:</p>
+<ul>
+<li>your name, phone number and email address</li>
+<li>your role (for example landlord or letting agent)</li>
+<li>the property postcode and type</li>
+<li>what was found at the property, whether the police and an insurer are involved, and how urgent the work is</li>
+<li>anything else you choose to tell us</li>
+</ul>
+<p>If you call us, calls may be recorded. You will be told at the start of the call.</p>
+<p>We also collect basic technical data needed to run the website securely, such as IP address in server logs. We do not use advertising or tracking cookies.</p>
+<h2>Why we use it, and our lawful basis</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Lawful basis</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Calling you back about your enquiry</td>
+<td>Steps at your request before a contract, and our legitimate interests in responding</td>
+</tr>
+<tr>
+<td>Sharing your enquiry with up to 2 specialists who cover your area</td>
+<td><strong>Your consent</strong>, given by ticking the separate box on the form or confirmed on the phone</td>
+</tr>
+<tr>
+<td>Following up a week and a month later to check the work went ahead</td>
+<td>Legitimate interests in checking the quality of the specialists we introduce</td>
+</tr>
+<tr>
+<td>Keeping records of enquiries and consent</td>
+<td>Legal obligation and legitimate interests</td>
+</tr>
+<tr>
+<td>Sending you marketing</td>
+<td>Only with your separate, specific consent. We do not do this by default</td>
+</tr>
+</tbody></table></div>
+<p>Information about police involvement may relate to a possible criminal offence by someone else, such as a tenant. We only use it to explain the job to the specialist and do not record names of suspects.</p>
+<h2>Who we share it with</h2>
+<ul>
+<li><strong>Up to 2 specialists</strong> who cover your postcode and have passed <a href="/mercia-property-recovery/how-we-vet-specialists/">our checks</a>. We tell you who they are before we pass your details on. Each specialist becomes a separate controller of your data once they receive it and must have their own privacy notice.</li>
+<li><strong>Our service providers</strong>, who process data on our behalf under contract: Google (Google Workspace and Google Sheets, where enquiries are stored), Vercel (website hosting) and Twilio (phone calls).</li>
+<li><strong>Authorities</strong>, only if the law requires it.</li>
+</ul>
+<p>We do not sell your data.</p>
+<h2>International transfers</h2>
+<p>Some of our service providers may process data outside the UK. Where they do, we rely on UK adequacy regulations or the International Data Transfer Agreement or Addendum to protect it.</p>
+<h2>How long we keep it</h2>
+<p>Enquiry and consent records are kept for 2 years after our last contact with you, then deleted. Call recordings are kept for 90 days unless needed for a complaint.</p>
+<h2>Your rights</h2>
+<p>You have the right to access your data, have it corrected, have it deleted, restrict or object to our use of it, and to data portability where it applies. <strong>You can withdraw your consent at any time</strong>, and we will not share your details with any further specialists. Contact us through the <a href="/mercia-property-recovery/request/">request form</a>.</p>
+<p>If you are unhappy with how we have handled your data, please tell us first. You can also complain to the Information Commissioner&#39;s Office at ico.org.uk or on 0303 123 1113.</p>
+12:["$","$1","c",{"children":[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L4",null,{"href":"/","children":"Home"}]}],["$","li","/privacy",{"children":["$","span",null,{"aria-current":"page","children":"Privacy notice"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy notice\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/privacy\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"Privacy notice"}],["$","p",null,{"className":"lede","children":"This notice explains what personal data we collect when you contact us, why, who we share it with and your rights under UK data protection law."}],"$undefined",false]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$16"}}],"$undefined","$undefined","$L17"]}],"$L18"]}]]}],["$L19"],"$L1a"]}]
+13:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}],null]}],null]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[97367,["$5"],"OutletBoundary"]
+10:C
+17:["$","p",null,{"className":"updated","children":["Last checked: ","9 November 2026"]}]
+18:["$","aside",null,{"className":"page-side","children":[false,"$undefined"]}]
+19:["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true,"nonce":"$undefined"}]
+1a:["$","$L22",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]
+24:I[27201,["$5"],"IconMark"]
+21:[["$","title","0",{"children":"Privacy Notice | Mercia Property Recovery"}],["$","meta","1",{"name":"description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/privacy/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Privacy Notice | Mercia Property Recovery"}],["$","meta","5",{"property":"og:description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/privacy/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Privacy Notice | Mercia Property Recovery"}],["$","meta","12",{"name":"twitter:description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L24","14",{}]]
+23:null

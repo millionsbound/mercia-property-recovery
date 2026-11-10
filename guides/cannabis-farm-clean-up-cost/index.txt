@@ -1,0 +1,175 @@
+1:"$Sreact.fragment"
+2:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+3:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+4:I[22016,["$2","$3"],""]
+5:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+6:I[39756,["$5"],"default"]
+7:I[37457,["$5"],"default"]
+16:I[68027,["$2"],"default",1]
+:HL["/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","style"]
+:HL["/mercia-property-recovery/mercia-logo.jpg","image"]
+10:X
+13:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L14","p":false,"v":null}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"cannabis-farm-clean-up-cost","s":[]},"h":66048,"d":{"r":"$L12","p":false,"v":"$10"},"c":"$Q13"}]]
+e:[["children",{"s":"guides","h":131584,"d":{"r":"$Lf","p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","guides","cannabis-farm-clean-up-cost",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","div",null,{"className":"wrap header-inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":[["$","img",null,{"className":"brand-mark","src":"/mercia-property-recovery/mercia-logo.jpg","alt":"","width":48,"height":51}],["$","span",null,{"className":"brand-text","children":[["$","span",null,{"className":"brand-name","children":"Mercia"}],["$","span",null,{"className":"brand-sub","children":"Property Recovery"}]]}]]}],["$","nav",null,{"aria-label":"Main","className":"main-nav","children":[["$","$L4",null,{"href":"/services","children":"Services"}],["$","$L4",null,{"href":"/guides","children":"Landlord guides"}],["$","$L4",null,{"href":"/areas","children":"Areas"}],["$","$L4",null,{"href":"/for-letting-agents","children":"Letting agents"}]]}],false]}]]}],["$","main",null,{"id":"main","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap page","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["The page you were looking for is not here. Try the ",["$","$L4",null,{"href":"/","children":"home page"}]," or our ",["$","$L4",null,{"href":"/guides","children":"landlord guides"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap footer-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"Mercia Property Recovery"}],["$","p",null,{"children":["An introduction service for landlords, letting agents and property owners in the West Midlands. We do not carry out the work ourselves. We introduce you to vetted specialists and may receive a fee from them. ",["$","$L4",null,{"href":"/about","children":"How this works"}],"."]}],["$","p",null,{"children":[false,"Phone answered Monday to Saturday, 8am to 7pm"]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"Services"}],["$","ul",null,{"children":[["$","li","cannabis-farm-clean-up",{"children":["$","$L4",null,{"href":"/services/cannabis-farm-clean-up","children":"Cannabis farm clean-up for rented property"}]}],["$","li","property-restoration-after-cannabis-farm",{"children":["$","$L4",null,{"href":"/services/property-restoration-after-cannabis-farm","children":"Full property restoration after a cannabis farm"}]}],["$","li","electrical-make-safe-rewire",{"children":["$","$L4",null,{"href":"/services/electrical-make-safe-rewire","children":"Electrical make-safe, testing and rewire"}]}],["$","li","drug-den-needle-clean-up",{"children":["$","$L4",null,{"href":"/services/drug-den-needle-clean-up","children":"Drug den and needle clean-up"}]}],["$","li","squatter-removal-and-clearance",{"children":["$","$L4",null,{"href":"/services/squatter-removal-and-clearance","children":"Squatter removal and property clearance"}]}],["$","li","tenant-damage-restoration",{"children":["$","$L4",null,{"href":"/services/tenant-damage-restoration","children":"Restoration after serious tenant damage"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"Guides"}],["$","ul",null,{"children":[["$","li","first-48-hours-after-a-cannabis-farm",{"children":["$","$L4",null,{"href":"/guides/first-48-hours-after-a-cannabis-farm","children":"Cannabis Farm Found in Your Rental? The First 48 Hours"}]}],["$","li","landlord-insurance-inspection-trap",{"children":["$","$L4",null,{"href":"/guides/landlord-insurance-inspection-trap","children":"Landlord Insurance and Cannabis Farms"}]}],["$","li","deposit-and-damage-claims",{"children":["$","$L4",null,{"href":"/guides/deposit-and-damage-claims","children":"Can I Claim Cannabis Farm Damage From the Deposit?"}]}],["$","li","cannabis-farm-clean-up-cost",{"children":["$","$L4",null,{"href":"/guides/cannabis-farm-clean-up-cost","children":"Cannabis Farm Clean-Up Cost UK"}]}]]}],"$L8","$L9"]}],"$La"]}],"$Lb"]}],"$Lc","$Ld"]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":"$L15","p":false,"v":null}},"m":"$undefined","G":["$16",["$L17"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"OuWZcFJmkW-e533p0tx0O"}
+19:I[97367,["$5"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:"ViewportBoundary"
+1d:I[97367,["$5"],"$1c"]
+1f:"MetadataBoundary"
+20:I[97367,["$5"],"$1f"]
+8:["$","p",null,{"className":"footer-head","children":"Areas"}]
+9:["$","ul",null,{"className":"inline-list","children":[["$","li","birmingham",{"children":["$","$L4",null,{"href":"/areas/birmingham","children":"Birmingham"}]}],["$","li","wolverhampton",{"children":["$","$L4",null,{"href":"/areas/wolverhampton","children":"Wolverhampton"}]}],["$","li","coventry",{"children":["$","$L4",null,{"href":"/areas/coventry","children":"Coventry"}]}],["$","li","walsall",{"children":["$","$L4",null,{"href":"/areas/walsall","children":"Walsall"}]}],["$","li","dudley",{"children":["$","$L4",null,{"href":"/areas/dudley","children":"Dudley"}]}],["$","li","sandwell",{"children":["$","$L4",null,{"href":"/areas/sandwell","children":"Sandwell"}]}]]}]
+a:["$","div",null,{"children":[["$","p",null,{"className":"footer-head","children":"About"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L4",null,{"href":"/about","children":"About us"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/how-we-vet-specialists","children":"How we vet specialists"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/for-letting-agents","children":"For letting agents"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/privacy","children":"Privacy notice"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/terms","children":"Terms"}]}],["$","li",null,{"children":["$","$L4",null,{"href":"/complaints","children":"Complaints"}]}]]}]]}]
+b:["$","div",null,{"className":"wrap footer-small","children":[["$","p",null,{"children":"In an emergency, or if you think a crime is in progress, call 999. For non-emergency police matters call 101. For a power cut or dangerous electrics, call 105."}],false]}]
+c:["$","div",null,{"className":"call-bar call-bar-single","role":"region","aria-label":"Quick contact","children":[false,["$","$L4",null,{"className":"btn btn-quiet","href":"/request","children":"Request a callback"}]]}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\",\"name\":\"Mercia Property Recovery\",\"url\":\"https://millionsbound.github.io/mercia-property-recovery\",\"description\":\"Help for West Midlands landlords and letting agents after a cannabis farm, drug use, squatters or serious tenant damage. We introduce you to vetted specialists for clean-up, electrics and repairs.\",\"areaServed\":{\"@type\":\"AdministrativeArea\",\"name\":\"West Midlands, England\"},\"logo\":\"https://millionsbound.github.io/mercia-property-recovery/mercia-logo.jpg\"}"}}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+14:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+15:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L21"}]}],null]}],null]}]
+17:["$","link","0",{"rel":"stylesheet","href":"/mercia-property-recovery/_next/static/chunks/2aj3pam3fz-cd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:C
+22:Te67,<h2>Clean-up only</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Work</th>
+<th>Published price</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cannabis grow clean-up, straightforward</td>
+<td>from £900 + VAT</td>
+<td>Bio-Shield (national specialist)</td>
+</tr>
+<tr>
+<td>Cannabis grow clean-up, extensive</td>
+<td>from £2,000 + VAT</td>
+<td>Bio-Shield</td>
+</tr>
+<tr>
+<td>Professional cleaning and removal (within a full restoration)</td>
+<td>£800 to £1,500</td>
+<td>Leisureguard Security cost table</td>
+</tr>
+</tbody></table></div>
+<h2>Full restoration, line by line</h2>
+<p>One published breakdown from Leisureguard Security, a property inspection firm:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Damage type</th>
+<th>Estimate</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Electrical rewire and fuse board</td>
+<td>£2,500 to £5,000</td>
+</tr>
+<tr>
+<td>Structural repairs (walls and floors)</td>
+<td>£3,000 to £10,000</td>
+</tr>
+<tr>
+<td>Plumbing and heating damage</td>
+<td>£1,500 to £3,000</td>
+</tr>
+<tr>
+<td>Damp and mould remediation</td>
+<td>£2,000 to £6,000</td>
+</tr>
+<tr>
+<td>Professional cleaning and removal</td>
+<td>£800 to £1,500</td>
+</tr>
+<tr>
+<td>Legal and admin fees</td>
+<td>£1,000+</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>£10,800 to £26,500+</strong></td>
+</tr>
+</tbody></table></div>
+<p>That excludes lost rent and void periods.</p>
+<h2>A real deposit case</h2>
+<p>From the mydeposits case study (see our <a href="/mercia-property-recovery/guides/deposit-and-damage-claims/">deposit guide</a>):</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Invoice</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Removal of compost, soil, pots, sheeting and rubbish</td>
+<td>£250</td>
+</tr>
+<tr>
+<td>Full clean</td>
+<td>£320</td>
+</tr>
+<tr>
+<td>Repairs: windows, ceiling, floorboards, screw holes, doors</td>
+<td>£2,450</td>
+</tr>
+<tr>
+<td>Lock change</td>
+<td>£220</td>
+</tr>
+</tbody></table></div>
+<p>This was a smaller grow. It shows that even modest damage quickly exceeds a typical deposit.</p>
+<h2>Related work</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Work</th>
+<th>Published price</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Needle sweep</td>
+<td>from £250</td>
+<td>Local Expert Cleaning (West Midlands)</td>
+</tr>
+<tr>
+<td>Notice to vacate land (unauthorised encampments)</td>
+<td>£650 + VAT</td>
+<td>Court Enforcement Specialists</td>
+</tr>
+<tr>
+<td>Eviction from land, first hour per agent</td>
+<td>£330 + VAT</td>
+<td>Court Enforcement Specialists</td>
+</tr>
+<tr>
+<td>Commercial possession claim to vacant possession (solicitor, fixed fee)</td>
+<td>about £2,600 + VAT</td>
+<td>SJR Legal</td>
+</tr>
+</tbody></table></div>
+<h2>What pushes the price up</h2>
+<ul>
+<li><strong>Number of rooms used</strong> and whether the loft was used</li>
+<li><strong>Electrical tampering</strong>: a bypassed meter almost always means a full test, and often a rewire</li>
+<li><strong>How long the grow ran</strong>: longer means more damp, mould and plaster damage</li>
+<li><strong>Structural alterations</strong>: holes in ceilings, walls and floors, removed doors</li>
+<li><strong>Access</strong>: flats above shops, city-centre parking and skip permits</li>
+<li><strong>Waste volume and type</strong>: electrical items and chemicals cost more to dispose of properly</li>
+</ul>
+<h2>How to get a real price</h2>
+<p>Ask for a survey, a written scope room by room, and an itemised quote. If you are claiming, check with your insurer before you accept. <a href="/mercia-property-recovery/request/">Tell us about the property</a> and we will introduce you to up to two specialists who cover your area.</p>
+18:[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L4",null,{"href":"/","children":"Home"}]}],["$","li","/guides",{"children":["$","$L4",null,{"href":"/guides","children":"Landlord guides"}]}],["$","li","/guides/cannabis-farm-clean-up-cost",{"children":["$","span",null,{"aria-current":"page","children":"How much does a cannabis farm clean-up and restoration cost"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Landlord guides\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/guides\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How much does a cannabis farm clean-up and restoration cost\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/guides/cannabis-farm-clean-up-cost\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"How much does a cannabis farm clean-up and restoration cost?"}],["$","p",null,{"className":"lede","children":"Every job is different, and the only real price is a written quote after a survey. But landlords need a sense of scale before they pick up the phone. These are prices published by UK firms and a real deposit case, with the source for each. We have not added estimates of our own."}],"$undefined",["$","p",null,{"className":"page-cta","children":[false,["$","a",null,{"className":"btn btn-quiet","href":"#request-form","children":"Request a callback"}],["$","span",null,{"className":"hours","children":"Phone answered Monday to Saturday, 8am to 7pm"}]]}]]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$undefined","$L23","$L24"]}],"$L25"]}]]}],"$L26"]
+27:I[50372,["$2","$3"],"default"]
+23:["$","section",null,{"className":"sources","aria-labelledby":"src-h","children":[["$","h2",null,{"id":"src-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://bio-shield.uk/manchester/cannabis-grow-clean-up/",{"children":["$","a",null,{"href":"https://bio-shield.uk/manchester/cannabis-grow-clean-up/","rel":"noopener","target":"_blank","children":"Bio-Shield: cannabis grow clean-up"}]}],["$","li","https://www.leisureguardsecurity.co.uk/cannabis-farms-rental-properties-inspections/",{"children":["$","a",null,{"href":"https://www.leisureguardsecurity.co.uk/cannabis-farms-rental-properties-inspections/","rel":"noopener","target":"_blank","children":"Leisureguard Security: cannabis farms in rental properties"}]}],["$","li","https://www.mydeposits.co.uk/content-hub/deposit-dispute-case-study-damage-due-to-cannabis-and-lock-change/",{"children":["$","a",null,{"href":"https://www.mydeposits.co.uk/content-hub/deposit-dispute-case-study-damage-due-to-cannabis-and-lock-change/","rel":"noopener","target":"_blank","children":"mydeposits case study"}]}],["$","li","https://www.localexpertcleaning.co.uk/needle-sweep-sharps-removal-birmingham/",{"children":["$","a",null,{"href":"https://www.localexpertcleaning.co.uk/needle-sweep-sharps-removal-birmingham/","rel":"noopener","target":"_blank","children":"Local Expert Cleaning: needle sweep Birmingham"}]}],["$","li","https://www.courtenforcementspecialists.co.uk/property-land/traveller-gypsy-removal/",{"children":["$","a",null,{"href":"https://www.courtenforcementspecialists.co.uk/property-land/traveller-gypsy-removal/","rel":"noopener","target":"_blank","children":"Court Enforcement Specialists: traveller removal"}]}],["$","li","https://www.sjrlegalservices.com/remove-squatters-commercial-property",{"children":["$","a",null,{"href":"https://www.sjrlegalservices.com/remove-squatters-commercial-property","rel":"noopener","target":"_blank","children":"SJR Legal: remove squatters from commercial property"}]}]]}]]}]
+24:["$","p",null,{"className":"updated","children":["Last checked: ","9 November 2026"]}]
+25:["$","aside",null,{"className":"page-side","children":[["$","section",null,{"className":"side-form","aria-labelledby":"side-form-h","children":[["$","h2",null,{"id":"side-form-h","children":"Tell us about the property"}],["$","p",null,{"className":"small","children":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later."}],["$","$L27",null,{"phoneDisplay":"","phoneHref":"","callbackPromise":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later.","defaultFound":"$undefined","idPrefix":"side"}]]}],["$","nav",null,{"className":"related","aria-label":"Related pages","children":[["$","h2",null,{"children":"Read next"}],["$","ul",null,{"children":[["$","li","/services/cannabis-farm-clean-up",{"children":["$","$L4",null,{"href":"/services/cannabis-farm-clean-up","children":"Cannabis farm clean-up for rented property"}]}],["$","li","/services/property-restoration-after-cannabis-farm",{"children":["$","$L4",null,{"href":"/services/property-restoration-after-cannabis-farm","children":"Full property restoration after a cannabis farm"}]}]]}]]}]]}]
+26:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How much does a cannabis farm clean-up and restoration cost?\",\"description\":\"Published UK prices for cannabis farm clean-up, electrics, repairs, damp and mould, needle sweeps and squatter removal, with sources. No made-up averages.\",\"mainEntityOfPage\":\"https://millionsbound.github.io/mercia-property-recovery/guides/cannabis-farm-clean-up-cost\",\"dateModified\":\"2026-11-09\",\"datePublished\":\"2026-11-09\",\"author\":{\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\"},\"publisher\":{\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\"}}"}}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]
+28:I[27201,["$5"],"IconMark"]
+1b:null
+21:[["$","title","0",{"children":"Cannabis Farm Clean-Up Cost UK: Published Prices"}],["$","meta","1",{"name":"description","content":"Published UK prices for cannabis farm clean-up, electrics, repairs, damp and mould, needle sweeps and squatter removal, with sources. No made-up averages."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/guides/cannabis-farm-clean-up-cost/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Cannabis Farm Clean-Up Cost UK: Published Prices"}],["$","meta","5",{"property":"og:description","content":"Published UK prices for cannabis farm clean-up, electrics, repairs, damp and mould, needle sweeps and squatter removal, with sources. No made-up averages."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/guides/cannabis-farm-clean-up-cost/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Cannabis Farm Clean-Up Cost UK: Published Prices"}],["$","meta","12",{"name":"twitter:description","content":"Published UK prices for cannabis farm clean-up, electrics, repairs, damp and mould, needle sweeps and squatter removal, with sources. No made-up averages."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L28","14",{}]]

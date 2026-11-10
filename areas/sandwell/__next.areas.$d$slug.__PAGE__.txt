@@ -1,0 +1,51 @@
+2:"$Sreact.fragment"
+3:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+d:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+e:I[22016,["$c","$d"],""]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+f:T65e,<h2>Recent case</h2>
+<ul>
+<li><strong>Salop Road, Oldbury, July 2026.</strong> Birmingham Mail reported around 200 plants, valued at roughly £200,000, across several rooms of a house on a residential street. The electricity had been bypassed and nobody was at the property.</li>
+</ul>
+<p>An empty house with a bypassed meter is a common pattern. It means the landlord may be the first person back inside after the police.</p>
+<h2>Sandwell&#39;s licensing rules</h2>
+<p>Sandwell has a <strong>borough-wide additional HMO licensing scheme</strong> for properties let to three or four people from two or more households who share facilities. It runs until 30 September 2029. Mandatory licensing covers larger HMOs. Sandwell does not currently operate selective licensing for single-household lets. If your property is an HMO, it will need to meet licence conditions after the restoration.</p>
+<h2>The six towns</h2>
+<p>We cover the whole borough: Oldbury, West Bromwich, Smethwick, Tipton, Wednesbury and Rowley Regis, including Cradley Heath. Postcodes cross council boundaries here (for example, some B postcodes are Birmingham and some are Sandwell), so we match specialists on the actual postcode, not the town name.</p>
+<h2>If the property was empty</h2>
+<ul>
+<li>Check your insurer&#39;s <strong>unoccupied property</strong> conditions. Many policies change after a property has been empty for 30 or 60 days.</li>
+<li>Secure the property as soon as it is released: new locks and, if needed, boarding.</li>
+<li>Photograph the meter position and any visible tampering before the supplier or network operator attends.</li>
+</ul>
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Le",null,{"href":"/","children":"Home"}]}],["$","li","/areas",{"children":["$","$Le",null,{"href":"/areas","children":"Areas"}]}],["$","li","/areas/sandwell",{"children":["$","span",null,{"aria-current":"page","children":"Sandwell"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Areas\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/areas\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sandwell\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/areas/sandwell\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"Cannabis farm and property recovery in Sandwell"}],["$","p",null,{"className":"lede","children":"Sandwell is six towns, not one, and the reported finds have been in ordinary residential streets. If you let property anywhere in the borough, this page covers what to do and the borough-wide HMO licensing rules."}],["$","p",null,{"className":"small","children":[["$","strong",null,{"children":"Postcodes:"}]," ","B64 to B71 (Cradley Heath, Rowley Regis, Smethwick, Oldbury, West Bromwich), DY4 (Tipton) and WS10 (Wednesbury)",". ",["$","strong",null,{"children":"Council:"}]," ",["$","a",null,{"href":"https://www.sandwell.gov.uk/find-home/additional-licensing","rel":"noopener","target":"_blank","children":"Sandwell Council additional licensing"}]]}],["$","p",null,{"className":"page-cta","children":[false,["$","a",null,{"className":"btn btn-quiet","href":"#request-form","children":"Request a callback"}],["$","span",null,{"className":"hours","children":"Phone answered Monday to Saturday, 8am to 7pm"}]]}]]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$f"}}],"$undefined","$L10","$undefined"]}],"$L11"]}]]}],"$L12"],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"sandwell","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"areas","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cannabis Farm Clean-Up Sandwell | Oldbury, West Brom"}],["$","meta","1",{"name":"description","content":"Landlords and agents in Oldbury, West Bromwich, Smethwick, Tipton, Wednesbury and Rowley Regis: what to do after a cannabis farm and how Sandwell's HMO licensing applies."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/areas/sandwell/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Cannabis Farm Clean-Up Sandwell | Oldbury, West Brom"}],["$","meta","5",{"property":"og:description","content":"Landlords and agents in Oldbury, West Bromwich, Smethwick, Tipton, Wednesbury and Rowley Regis: what to do after a cannabis farm and how Sandwell's HMO licensing applies."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/areas/sandwell/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Cannabis Farm Clean-Up Sandwell | Oldbury, West Brom"}],["$","meta","12",{"name":"twitter:description","content":"Landlords and agents in Oldbury, West Bromwich, Smethwick, Tipton, Wednesbury and Rowley Regis: what to do after a cannabis farm and how Sandwell's HMO licensing applies."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","14",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"OuWZcFJmkW-e533p0tx0O"}
+1f:I[50372,["$c","$d"],"default"]
+20:I[97367,["$3"],"OutletBoundary"]
+10:["$","section",null,{"className":"sources","aria-labelledby":"src-h","children":[["$","h2",null,{"id":"src-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://www.birminghammail.co.uk/news/midlands-news/big-200000-cannabis-farm-found-34235661",{"children":["$","a",null,{"href":"https://www.birminghammail.co.uk/news/midlands-news/big-200000-cannabis-farm-found-34235661","rel":"noopener","target":"_blank","children":"Birmingham Mail: Salop Road, Oldbury"}]}],["$","li","https://www.sandwell.gov.uk/find-home/additional-licensing",{"children":["$","a",null,{"href":"https://www.sandwell.gov.uk/find-home/additional-licensing","rel":"noopener","target":"_blank","children":"Sandwell Council: additional licensing"}]}]]}]]}]
+11:["$","aside",null,{"className":"page-side","children":[["$","section",null,{"className":"side-form","aria-labelledby":"side-form-h","children":[["$","h2",null,{"id":"side-form-h","children":"Tell us about the property"}],["$","p",null,{"className":"small","children":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later."}],["$","$L1f",null,{"phoneDisplay":"","phoneHref":"","callbackPromise":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later.","idPrefix":"side"}]]}],"$undefined"]}]
+12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Cannabis farm and property recovery in Sandwell\",\"description\":\"Landlords and agents in Oldbury, West Bromwich, Smethwick, Tipton, Wednesbury and Rowley Regis: what to do after a cannabis farm and how Sandwell's HMO licensing applies.\",\"url\":\"https://millionsbound.github.io/mercia-property-recovery/areas/sandwell\",\"serviceType\":\"Cannabis farm and property recovery in Sandwell\",\"provider\":{\"@id\":\"https://millionsbound.github.io/mercia-property-recovery/#organization\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Sandwell\"}}"}}]
+13:["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true}]
+14:["$","$L20",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+1e:true
+8:300
+21:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"

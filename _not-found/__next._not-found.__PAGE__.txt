@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+b:I[22016,["$a"],""]
+c:I[97367,["$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3"],"$12"]
+14:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"wrap page","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["The page you were looking for is not here. Try the ",["$","$Lb",null,{"href":"/","children":"home page"}]," or our ",["$","$Lb",null,{"href":"/guides","children":"landlord guides"}],"."]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cannabis Farm Clean-Up and Recovery for Landlords | West Midlands"}],["$","meta","1",{"name":"description","content":"Help for West Midlands landlords and letting agents after a cannabis farm, drug use, squatters or serious tenant damage. We introduce you to vetted specialists for clean-up, electrics and repairs."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Cannabis Farm Clean-Up and Recovery for Landlords | West Midlands"}],["$","meta","5",{"property":"og:description","content":"Help for West Midlands landlords and letting agents after a cannabis farm, drug use, squatters or serious tenant damage. We introduce you to vetted specialists for clean-up, electrics and repairs."}],["$","meta","6",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","7",{"property":"og:locale","content":"en_GB"}],["$","meta","8",{"property":"og:image","content":"https://millionsbound.github.io/mercia-property-recovery/opengraph-image?7978476f1feccfe5"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Mercia Property Recovery: help for West Midlands landlords after a cannabis farm"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Cannabis Farm Clean-Up and Recovery for Landlords | West Midlands"}],["$","meta","16",{"name":"twitter:description","content":"Help for West Midlands landlords and letting agents after a cannabis farm, drug use, squatters or serious tenant damage. We introduce you to vetted specialists for clean-up, electrics and repairs."}],["$","meta","17",{"name":"twitter:image","content":"https://millionsbound.github.io/mercia-property-recovery/opengraph-image?7978476f1feccfe5"}],["$","meta","18",{"name":"twitter:image:alt","content":"Mercia Property Recovery: help for West Midlands landlords after a cannabis farm"}],["$","meta","19",{"name":"twitter:image:type","content":"image/png"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","link","22",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","23",{}]]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$8"}},"a":"$@16","u":"$@17","b":"OuWZcFJmkW-e533p0tx0O"}
+e:null
+17:true
+8:300
+8:C
+16:0
+6:"$undefined"
+15:"$undefined"
+f:"$undefined"

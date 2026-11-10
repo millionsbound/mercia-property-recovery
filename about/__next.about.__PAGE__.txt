@@ -1,0 +1,50 @@
+2:"$Sreact.fragment"
+3:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+b:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+c:I[22016,["$a","$b"],""]
+12:"ViewportBoundary"
+13:I[97367,["$3"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3"],"$14"]
+16:"$Sreact.suspense"
+17:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+d:T73b,<h2>Why this exists</h2>
+<p>When police find a cannabis farm in a rented property, they remove the plants and move on. Search for help and you will mostly find news reports and police appeals. Landlords are left working out, on their own and in a hurry, who to call about the electrics, the waste, the damp, the insurer and the tenant.</p>
+<p>This site tries to fix that in two ways: plain guides that explain what to do next, and a single place to ask for help from people who do this work.</p>
+<h2>Who runs it</h2>
+<p>Mercia Property Recovery is run by Hamza Yusuf, based in Birmingham.</p>
+<h2>How we are paid</h2>
+<p><strong>You do not pay us.</strong> The specialists we introduce may pay us a fee for each introduction, and in some cases a further fee if the job goes ahead. This does not change the price you are quoted, and you are free to get other quotes. We will always tell you, before your details are passed on, which firm or firms will contact you.</p>
+<h2>What we do and do not do</h2>
+<ul>
+<li>We <strong>do</strong> listen to what happened, ask the questions a specialist will need answered, and introduce you to up to 2 vetted specialists who cover your postcode.</li>
+<li>We <strong>do</strong> follow up afterwards to check the work went ahead and was done properly.</li>
+<li>We <strong>do not</strong> carry out cleaning, electrical, building or legal work ourselves.</li>
+<li>We <strong>do not</strong> give legal, insurance or financial advice. Our guides are general information.</li>
+<li>We <strong>do not</strong> sell your details or use them for marketing without your separate consent.</li>
+<li>We <strong>do not</strong> publish reviews we cannot verify, or claim results we cannot show.</li>
+</ul>
+<h2>Contact</h2>
+<p>Use the <a href="/mercia-property-recovery/request/">request form</a> and we will call you back.</p>
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Lc",null,{"href":"/","children":"Home"}]}],["$","li","/about",{"children":["$","span",null,{"aria-current":"page","children":"About Mercia Property Recovery"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"About Mercia Property Recovery\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/about\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"About Mercia Property Recovery"}],["$","p",null,{"className":"lede","children":"We are an introduction service, not a cleaning or building company. We do not carry out the work ourselves. We connect landlords and letting agents in the West Midlands with specialists we have checked, and we may receive a fee from those specialists."}],"$undefined",["$","p",null,{"className":"page-cta","children":[false,["$","a",null,{"className":"btn btn-quiet","href":"#request-form","children":"Request a callback"}],["$","span",null,{"className":"hours","children":"Phone answered Monday to Saturday, 8am to 7pm"}]]}]]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$d"}}],"$undefined","$undefined","$undefined"]}],"$Le"]}]]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$8"}}]]
+1:[["children",{"s":"about","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About Us | Mercia Property Recovery"}],["$","meta","1",{"name":"description","content":"Mercia Property Recovery is an introduction service. We connect West Midlands landlords and letting agents with vetted specialists, and we may receive a fee from them."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/about/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"About Us | Mercia Property Recovery"}],["$","meta","5",{"property":"og:description","content":"Mercia Property Recovery is an introduction service. We connect West Midlands landlords and letting agents with vetted specialists, and we may receive a fee from them."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/about/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"About Us | Mercia Property Recovery"}],["$","meta","12",{"name":"twitter:description","content":"Mercia Property Recovery is an introduction service. We connect West Midlands landlords and letting agents with vetted specialists, and we may receive a fee from them."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","14",{}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"OuWZcFJmkW-e533p0tx0O"}
+1b:I[50372,["$a","$b"],"default"]
+1c:I[97367,["$3"],"OutletBoundary"]
+e:["$","aside",null,{"className":"page-side","children":[["$","section",null,{"className":"side-form","aria-labelledby":"side-form-h","children":[["$","h2",null,{"id":"side-form-h","children":"Tell us about the property"}],["$","p",null,{"className":"small","children":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later."}],["$","$L1b",null,{"phoneDisplay":"","phoneHref":"","callbackPromise":"We call back every form enquiry the same day if it arrives before 5pm, and by 10am the next working day if it arrives later.","idPrefix":"side"}]]}],["$","nav",null,{"className":"related","aria-label":"Related pages","children":[["$","h2",null,{"children":"Read next"}],["$","ul",null,{"children":[["$","li","/how-we-vet-specialists",{"children":["$","$Lc",null,{"href":"/how-we-vet-specialists","children":"How we vet the specialists we introduce"}]}],["$","li","/privacy",{"children":["$","$Lc",null,{"href":"/privacy","children":"Privacy notice"}]}],["$","li","/complaints",{"children":["$","$Lc",null,{"href":"/complaints","children":"Complaints"}]}]]}]]}]]}]
+f:["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true}]
+10:["$","$L1c",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+1a:true
+8:300
+1d:null
+8:C
+19:0
+6:"$undefined"
+18:"$undefined"
+11:"$undefined"

@@ -1,0 +1,89 @@
+2:"$Sreact.fragment"
+3:"/mercia-property-recovery/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/mercia-property-recovery/_next/static/chunks/3zt_16xndew4w.js"
+b:"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js"
+c:I[22016,["$a","$b"],""]
+13:"ViewportBoundary"
+14:I[97367,["$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+d:Te45,<h2>Who we are</h2>
+<p>The controller is Mercia Property Recovery. Contact us through the <a href="/mercia-property-recovery/request/">request form</a>.</p>
+<h2>What we collect</h2>
+<p>When you use our form or call us, we collect:</p>
+<ul>
+<li>your name, phone number and email address</li>
+<li>your role (for example landlord or letting agent)</li>
+<li>the property postcode and type</li>
+<li>what was found at the property, whether the police and an insurer are involved, and how urgent the work is</li>
+<li>anything else you choose to tell us</li>
+</ul>
+<p>If you call us, calls may be recorded. You will be told at the start of the call.</p>
+<p>We also collect basic technical data needed to run the website securely, such as IP address in server logs. We do not use advertising or tracking cookies.</p>
+<h2>Why we use it, and our lawful basis</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Lawful basis</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Calling you back about your enquiry</td>
+<td>Steps at your request before a contract, and our legitimate interests in responding</td>
+</tr>
+<tr>
+<td>Sharing your enquiry with up to 2 specialists who cover your area</td>
+<td><strong>Your consent</strong>, given by ticking the separate box on the form or confirmed on the phone</td>
+</tr>
+<tr>
+<td>Following up a week and a month later to check the work went ahead</td>
+<td>Legitimate interests in checking the quality of the specialists we introduce</td>
+</tr>
+<tr>
+<td>Keeping records of enquiries and consent</td>
+<td>Legal obligation and legitimate interests</td>
+</tr>
+<tr>
+<td>Sending you marketing</td>
+<td>Only with your separate, specific consent. We do not do this by default</td>
+</tr>
+</tbody></table></div>
+<p>Information about police involvement may relate to a possible criminal offence by someone else, such as a tenant. We only use it to explain the job to the specialist and do not record names of suspects.</p>
+<h2>Who we share it with</h2>
+<ul>
+<li><strong>Up to 2 specialists</strong> who cover your postcode and have passed <a href="/mercia-property-recovery/how-we-vet-specialists/">our checks</a>. We tell you who they are before we pass your details on. Each specialist becomes a separate controller of your data once they receive it and must have their own privacy notice.</li>
+<li><strong>Our service providers</strong>, who process data on our behalf under contract: Google (Google Workspace and Google Sheets, where enquiries are stored), Vercel (website hosting) and Twilio (phone calls).</li>
+<li><strong>Authorities</strong>, only if the law requires it.</li>
+</ul>
+<p>We do not sell your data.</p>
+<h2>International transfers</h2>
+<p>Some of our service providers may process data outside the UK. Where they do, we rely on UK adequacy regulations or the International Data Transfer Agreement or Addendum to protect it.</p>
+<h2>How long we keep it</h2>
+<p>Enquiry and consent records are kept for 2 years after our last contact with you, then deleted. Call recordings are kept for 90 days unless needed for a complaint.</p>
+<h2>Your rights</h2>
+<p>You have the right to access your data, have it corrected, have it deleted, restrict or object to our use of it, and to data portability where it applies. <strong>You can withdraw your consent at any time</strong>, and we will not share your details with any further specialists. Contact us through the <a href="/mercia-property-recovery/request/">request form</a>.</p>
+<p>If you are unhappy with how we have handled your data, please tell us first. You can also complain to the Information Commissioner&#39;s Office at ico.org.uk or on 0303 123 1113.</p>
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"className":"wrap page","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Lc",null,{"href":"/","children":"Home"}]}],["$","li","/privacy",{"children":["$","span",null,{"aria-current":"page","children":"Privacy notice"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy notice\",\"item\":\"https://millionsbound.github.io/mercia-property-recovery/privacy\"}]}"}}]],["$","header",null,{"className":"page-head","children":[["$","h1",null,{"children":"Privacy notice"}],["$","p",null,{"className":"lede","children":"This notice explains what personal data we collect when you contact us, why, who we share it with and your rights under UK data protection law."}],"$undefined",false]}],["$","div",null,{"className":"page-grid","children":[["$","div",null,{"className":"page-main","children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$d"}}],"$undefined","$undefined","$Le"]}],"$Lf"]}]]}],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$8"}}]]
+1:[["children",{"s":"privacy","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d4b3a"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Notice | Mercia Property Recovery"}],["$","meta","1",{"name":"description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","link","2",{"rel":"canonical","href":"https://millionsbound.github.io/mercia-property-recovery/privacy/"}],["$","meta","3",{"name":"format-detection","content":"telephone=no"}],["$","meta","4",{"property":"og:title","content":"Privacy Notice | Mercia Property Recovery"}],["$","meta","5",{"property":"og:description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","meta","6",{"property":"og:url","content":"https://millionsbound.github.io/mercia-property-recovery/privacy/"}],["$","meta","7",{"property":"og:site_name","content":"Mercia Property Recovery"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Privacy Notice | Mercia Property Recovery"}],["$","meta","12",{"name":"twitter:description","content":"How Mercia Property Recovery collects, uses and shares your personal data under UK GDPR, including sharing your enquiry with up to two specialists."}],["$","link","13",{"rel":"icon","href":"/mercia-property-recovery/icon.svg?icon.1wucnq023wh5p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","14",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"OuWZcFJmkW-e533p0tx0O"}
+1c:I[97367,["$3"],"OutletBoundary"]
+e:["$","p",null,{"className":"updated","children":["Last checked: ","9 November 2026"]}]
+f:["$","aside",null,{"className":"page-side","children":[false,"$undefined"]}]
+10:["$","script","script-0",{"src":"/mercia-property-recovery/_next/static/chunks/38r9m80_lc4ed.js","async":true}]
+11:["$","$L1c",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+1b:true
+8:300
+1d:null
+8:C
+1a:0
+6:"$undefined"
+19:"$undefined"
+12:"$undefined"
