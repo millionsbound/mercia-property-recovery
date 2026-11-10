@@ -210,3 +210,4 @@ html:not(.js) [data-next],html:not(.js) [data-back]{display:none}
   .hero-compare{max-width:none}
   .hero{padding:26px 0 28px}
 }
+.inline-fig{margin:1.6em 0}.inline-fig img{margin:0}
